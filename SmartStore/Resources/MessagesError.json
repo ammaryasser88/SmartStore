@@ -1,0 +1,11 @@
+{
+
+  "EmptyValue": "القيمة غير صحيحة",
+  "RegisterSuccessfully": "تم التسجيل بنجاح",
+  "ItemCategoryExists": "هذا التصنيف موجود بالفعل",
+  "ValueNotFound": "القيمة غير موجوده",
+  "UpdateSuccessfully": "تم التحديث بنجاح",
+  "DeleteSuccessfully": "تم الحذف بنجاح",
+  "ItemGroupExists": "هذه المجموعه موجوده بالفعل"
+
+}
